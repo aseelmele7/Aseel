@@ -3,11 +3,11 @@
 
 **important Notes**
 
-Please note that the previous version of LifeConnect was known as ~~LifeSync~~. This version has been improved and updated to better meet your needs. The features that were previously included in ~~LifeSync~~ have been significantly enhanced.
+- Please note that the previous version of LifeConnect was known as ~~LifeSync~~. This version has been improved and updated to better meet your needs. The features that were previously included in ~~LifeSync~~ have been significantly enhanced.
 
-For example, the old health tracking feature, which provided basic metrics, has now evolved to include advanced analytics and personalized health insights.
+- For example, the old health tracking feature, which provided basic metrics, has now evolved to include advanced analytics and personalized health insights.
 
-This means that while the older version ~~LifeSync~~ is now deprecated, LifeConnect offers a more robust and comprehensive experience.
+- This means that while the older version ~~LifeSync~~ is now deprecated, LifeConnect offers a more robust and comprehensive experience.
 
 **Usage of LifeConnect**
 
