@@ -71,10 +71,10 @@ With LifeConnect, you can manage your health data efficiently. For example, if y
 
  
  | Feature | Shared Projects | Task Assignments | Communication Tools |
- |----------------------|--------------------|----------|-----------| 
- |**Visibility**|All members can see updates| Assigned tasks visible| Integrated chat💬|
- |**Notifications**|Updates for all| Task alerts 🔔|Message notifications|
- |**File Sharing**|Share files within projects 📁| Attach files to tasks| Share files in chat|
+ | ---------------------- | -------------------- | ---------- | ----------- | 
+ | **Visibility** | All members can see updates | Assigned tasks visible | Integrated chat💬 |
+ | **Notifications** | Updates for all | Task alerts 🔔 | Message notifications |
+ | **File Sharing** | Share files within projects 📁 | Attach files to tasks | Share files in chat |
 ### Reporting
 To generate a report in *LifeConnect:*
 
