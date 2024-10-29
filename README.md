@@ -139,7 +139,7 @@ To generate a report in *LifeConnect:*
   ```javascript
   function sendWeeklySummary() { const summary = getWeeklyTasks(); sendEmail('user@example.com', 'Weekly Summary', summary); } sendWeeklySummary(); 
   ```
-2. Integrations 🔗
+2. **Integrations** 🔗
 LifeConnect can integrate with various applications to enhance functionality. Here’s a table of supported integrations:
 
 | Application Name | Description | Website |
